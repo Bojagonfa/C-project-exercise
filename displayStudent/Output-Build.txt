@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: displayStudent, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>displayStudent -> C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\bin\Debug\net6.0-windows\displayStudent.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 12:00 AM and took 00.761 seconds ==========

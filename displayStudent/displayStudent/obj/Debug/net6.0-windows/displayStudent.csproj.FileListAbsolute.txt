@@ -1,0 +1,32 @@
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\bin\Debug\net6.0-windows\displayStudent.exe
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\bin\Debug\net6.0-windows\displayStudent.deps.json
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\bin\Debug\net6.0-windows\displayStudent.runtimeconfig.json
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\bin\Debug\net6.0-windows\displayStudent.dll
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\bin\Debug\net6.0-windows\displayStudent.pdb
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.Form1.resources
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.csproj.GenerateResource.cache
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.AssemblyInfoInputs.cache
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.AssemblyInfo.cs
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.csproj.CoreCompileInputs.cache
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.dll
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\obj\Debug\net6.0-windows\refint\displayStudent.dll
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.pdb
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.genruntimeconfig.cache
+C:\Users\Dawit Amlaku\source\repos\displayStudent\displayStudent\obj\Debug\net6.0-windows\ref\displayStudent.dll
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\bin\Debug\net6.0-windows\displayStudent.exe
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\bin\Debug\net6.0-windows\displayStudent.deps.json
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\bin\Debug\net6.0-windows\displayStudent.runtimeconfig.json
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\bin\Debug\net6.0-windows\displayStudent.dll
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\bin\Debug\net6.0-windows\displayStudent.pdb
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.Form1.resources
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.csproj.GenerateResource.cache
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.AssemblyInfoInputs.cache
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.AssemblyInfo.cs
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.csproj.CoreCompileInputs.cache
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.dll
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\obj\Debug\net6.0-windows\refint\displayStudent.dll
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.pdb
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\obj\Debug\net6.0-windows\displayStudent.genruntimeconfig.cache
+C:\Users\milli\Desktop\poject for c#\displayStudent\displayStudent\obj\Debug\net6.0-windows\ref\displayStudent.dll
